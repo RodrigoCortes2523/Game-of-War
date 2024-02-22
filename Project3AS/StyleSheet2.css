@@ -1,0 +1,59 @@
+﻿body {
+    background-color: lightseagreen;
+    text-align: center;
+    font-family: Ebrima;
+}
+
+div.label {
+    color: white;
+}
+
+.titleLabel {
+    font-size: 58px;
+    font-style: oblique;
+}
+
+.deck1SuitLabel {
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    margin-right: 50px;
+}
+
+.deck2SuitLabel {
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+
+.deck1RankLabel {
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    margin-right: 50px;
+}
+
+.deck2RankLabel {
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+
+.remainingCardsLabel {
+    margin-left: 10px;
+    background-color: white;
+    border: 1px solid black;
+}
+
+.player1ScoreLabel {
+    margin-left: 10px;
+    margin-right: 50px;
+    background-color: white;
+    border: 1px solid black;
+}
+
+.player2ScoreLabel {
+    margin-left: 10px;
+    background-color: white;
+    border: 1px solid black;
+}
